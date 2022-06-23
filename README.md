@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fvillena/mim-computacion2/master) [![Build Status](https://travis-ci.org/fvillena/mim-computacion2.svg?branch=master)](https://travis-ci.org/fvillena/mim-computacion2)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fvillena/mim-computacion2/main) [![Build Status](https://travis-ci.org/fvillena/mim-computacion2.svg?branch=main)](https://travis-ci.org/fvillena/mim-computacion2)
 
 # Introducción al prendizaje automático
 
@@ -34,4 +34,4 @@ https://mybinder.org/v2/gh/fvillena/mim-computacion2/master
 
 Debido a la necesidad de una GPU para realizar las actividades de la clase 4 de manera más eficiente, esta misma se construyó en Google Colab. El siguiente enlace lleva a la clase:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fvillena/mim-computacion2/blob/master/4-deep-learning.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fvillena/mim-computacion2/blob/main/4-deep-learning.ipynb)
